@@ -2,8 +2,6 @@
 
 Trackora is the marketing site, customer-facing tools, and internal ops dashboard for a logistics/freight platform — live shipment tracking, an AI-driven quote and inquiry flow, call scheduling, and a dashboard for shipments, tickets, and leads.
 
-> **In production for a client.** The live system runs on the client's own domain and isn't linked here. This repository is the build record: the full source, with client data, credentials and URLs removed.
-
 This repository is the **frontend only**. It is one piece of a three-part system:
 
 | Layer | Role |
